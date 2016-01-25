@@ -31,7 +31,7 @@ class Environment:
 		pass
 	
 	# () -> Observation
- 	def env_start():
+	def env_start():
 		pass
 	
 	# (Action) -> Reward_observation_terminal
